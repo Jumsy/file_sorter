@@ -9,7 +9,7 @@
 Renaming to a file name that already exists then cancelling will
 still change what the program thinks the file is called despite
 not actually changing the file's name.
-"""
+
 To-do
  Allow undos
  Add in viewing for txt/pdf
