@@ -1,0 +1,10 @@
+This program has been tested on python 3.2.2
+
+To run:
+  Execute the file while the current working directory is the directory of
+  files that you wish to sort.
+
+This program assumes that feh, mplayer, chromium and animate are installed.
+It also assumes that your target destinations for files mirrors my file system.
+Other people wishing to use this program will either have to use the same
+file system as I do or manually edit the target destiniations in the source file
